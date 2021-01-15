@@ -11,7 +11,7 @@ var players = "0";
 // CONFIG
 const { token } = require('./config.json');
 
-/////////////////// STATUS SERWERA FIVEM (GORILLARP)
+/////////////////// STATUS W ACTIVITY
 
 client.on('ready', async () => {
     setInterval(async () => {
