@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Simple discord bot with fivem server status in activity",
   "main": "index.js",
-  "scripts": {
-    "test": "ping"
-  },
   "author": "ktz",
   "license": "ISC"
 }
