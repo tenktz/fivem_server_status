@@ -2,9 +2,9 @@
 
 Before this steps you must be in your bot folder >
 
-npm install discord.js 
+`<addr>` npm install discord.js 
 
-npm install request
+`<addr>` npm install request
 
 
 # Configuration
@@ -14,4 +14,4 @@ npm install request
 2.3 Get your bot invite link from your application and invite your bot to server
 
 
-# Bot don't work correctly? Contact me on discord: ktz#6155 and I will fix that fast!
+Bot don't work correctly? Contact me on discord: ktz#6155 and I will fix that fast!
