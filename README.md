@@ -10,7 +10,9 @@ Before this steps you must be in your bot folder >
 # Configuration
 
 2.1 Put your bot token from https://discord.com/developers/applications to config.json
-2.2 Go to index.js and find text "your_ip_here:port", just change it to your server ip:port
+
+2.2 Go to index.js and find text `"your_ip_here:port"`, just change it to your server ip:port
+
 2.3 Get your bot invite link from your application and invite your bot to server
 
 
