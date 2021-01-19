@@ -2,9 +2,9 @@
 
 Before this steps you must be in your bot folder >
 
-`<addr>` npm install discord.js 
+ `npm install discord.js`
 
-`<addr>` npm install request
+ `npm install request`
 
 
 # Configuration
