@@ -6,6 +6,7 @@ Before this steps you must be in your bot folder >
 
  `npm install request`
 
+!!! USE NODE 17 VERSION !!!
 
 # Configuration
 
