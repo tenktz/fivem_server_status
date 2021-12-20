@@ -1,6 +1,6 @@
 // no no don't touch me there this is my no no squere
-const Discord = require('discord.js');
-const client = new Discord.Client();
+const { Client, Intents } = require('discord.js');
+const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
 // FIVEM STATUS 
 
